@@ -37,6 +37,7 @@ This repository contains the initial stage of a student project to build a clone
 
 ##### Commands
     * create - Creates an instance based on given class
+               also now it can take addition arguments to edit the valuse
 
     * destroy - Destroys an object based on class and UUID
 
